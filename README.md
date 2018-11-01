@@ -2,8 +2,8 @@
 Programming for Data Analysis Assignment
 
 # Problem statement
-The following assignment concerns the numpy.random package in Python [2]. You are
-required to create a Jupyter [5] notebook explaining the use of the package, including
+The following assignment concerns the numpy.random package in Python. You are
+required to create a Jupyter notebook explaining the use of the package, including
 detailed explanations of at least five of the distributions provided for in the package.
 There are four distinct tasks to be carried out in your Jupyter notebook.
 
